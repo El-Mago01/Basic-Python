@@ -1,0 +1,8 @@
+I need a program for "our cashiers that will calculate added taxes and the change for the customer".
+For example, I will type a total amount like: 23.22$ and the amount received from the customer (e.g. 50$).
+The program would add the VAT tax (11.5%) and then calculate the change to give back to the customer
+
+Sub problems:
+1. get the total amount (e.g. 23.22$) and the amount received from customer (e.g. 50$) - get_price_and_amount_received()
+2. add the VAT tax (11.5%) and calculate the change to give back to the customer       - calculate_price_with_tax_and_change(price, amount_received
+
